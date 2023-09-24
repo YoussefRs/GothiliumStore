@@ -1,6 +1,4 @@
 import { MediaContainer } from 'components/common';
-
-import Video from 'assets/videos/hero.mp4';
 import LogoHero from 'assets/images/logo-hero.png';
 
 import styles from './index.module.scss';
